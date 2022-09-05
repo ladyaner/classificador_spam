@@ -13,7 +13,7 @@
  
  0.0 Foi a etapa de importação 
  
- 1.0 Nesta estapa foi realidada as primeiras obervações dos dados, dimensões, dados nulos e limpeza inicial dos dados
+ 1.0 Nesta estapa foi realizada as primeiras obervações dos dados, dimensões, dados nulos e limpeza inicial dos dados
  
  2.0 Após a limpeza inicial que foi removido as pontuações, caracteres especiais, emojis e números, foi gerada nuvens de palavras para cada classe: Spam e Não Spam.Com isso podemos observar as palavras mais frenquentes em cada classe e fazer comparações. Na nuvem de mensagens spam percebemos mais gírias, palavras com conotação sexual entre outras.
  
